@@ -16,5 +16,5 @@ jobs:
         uses: AndreasAugustin/actions-template-sync@v1.1.1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          source_repo_path: jeff-choy/jeff-choy.com
+          source_repo_path: jeff-choy/jeff-choy.github.io
           upstream_branch: master
